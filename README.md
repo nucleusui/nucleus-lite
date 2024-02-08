@@ -50,25 +50,25 @@ flutter build apk --release && flutter build web --release
 ## What will you get?
 
 ### Components
-•⁠  ⁠button
-•⁠  ⁠modal bottom sheet
-•⁠  ⁠⁠text fields
-•⁠  ⁠⁠pin text fields
-•⁠  ⁠⁠checkbox
-•⁠  ⁠⁠app bar
-•⁠  ⁠⁠bottom navigation bar
-•⁠  ⁠⁠switch
-•⁠  ⁠⁠chips
-•⁠  ⁠⁠divider
-•⁠  ⁠⁠image gallery
+1. Buttons
+2. Bottom sheet modal
+3. T⁠ext fields
+4. ⁠⁠Pin text fields
+5. Checkboxes
+6. App bar
+7. Bottom navigation bar
+8. S⁠witches
+9. Chips
+10. ⁠⁠Dividers
+11. Image gallery
 
 These are lists of Pages that you will get :
 ### Home Pages
 
-1. All Items Pages
+1. All Items Page
 2. Home Page
-3. Inbox Page
-4. Home Page 2
+3. Home Page 2
+4. Inbox Page
 
 ### Login / Signup Pages
 
