@@ -1,13 +1,7 @@
 # Nucleus Flutter
 
-Nucleus Flutter is an official open source Flutter code inspired from [Nucleus Lite (Free Figma UI kit & Design system)](https://www.nucleus-ui.com/nucleus-lite).  
-To preview the Pages, click [here](https://nucleus-lite.web.app/).
-
-## Made and Managed by [Studio Alva](https://studioalva.co/)
-
-We are a team that specialize in UI/UX Design, Website and Mobile Development.
-We helped businesses to strategize and build platform or digital products that are meaningful for their business and users.
-Our team is curious and obsessed with doing great work, solving problems, pushing boundaries to bring new perspective into our client's business.
+Nucleus Flutter is an official open source Flutter code of [Nucleus Lite (Free Figma UI kit & Design system)](https://www.nucleus-ui.com/nucleus-lite).  
+[See preview](https://nucleus-lite.web.app/).
 
 ## Getting Started
 
@@ -55,8 +49,20 @@ flutter build apk --release && flutter build web --release
 
 ## What will you get?
 
-These are lists of Pages that you will get :
+### Components
+•⁠  ⁠button
+•⁠  ⁠modal bottom sheet
+•⁠  ⁠⁠text fields
+•⁠  ⁠⁠pin text fields
+•⁠  ⁠⁠checkbox
+•⁠  ⁠⁠app bar
+•⁠  ⁠⁠bottom navigation bar
+•⁠  ⁠⁠switch
+•⁠  ⁠⁠chips
+•⁠  ⁠⁠divider
+•⁠  ⁠⁠image gallery
 
+These are lists of Pages that you will get :
 ### Home Pages
 
 1. All Items Pages
@@ -115,7 +121,4 @@ These are lists of Pages that you will get :
 
 <br/>
 
-Download [Nucleus Plus](https://www.nucleus-ui.com/nucleus-plus) for more Components and Unlimited Updates!  
-For Business Inquiry, you can contact us at [jason@studioalva.co](mailto:jason@studioalva.co)
-
-Copyright 2023. Nucleus Flutter created by [Studio Alva](https://studioalva.co/)
+Copyright 2024. Nucleus Flutter. In collaboration with [Studio Alva](https://studioalva.co/)
